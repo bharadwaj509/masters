@@ -2,132 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc81db4b-acea-47ab-9d7c-775031cedc6a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KnnbagOfWords.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewProblemStmt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResampleFiles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleKNN.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1017_sci-news.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1028_redorbit.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1034_aol.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1050_honda.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/105_amazon.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1070_wnep.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1083_highgearmedia.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1089_freep.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1099_enthusiastnetwork.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1106_allstate.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1164_acbj.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1205_opensecrets.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1206_dcccd.edu.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1221_gwdocs.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1224_austincc.edu.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1252_cincymuseum.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1259_fool.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1261_zacks.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1264_citizen.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1300_bankofamerica.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1306_chasepaymentech.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/133_fortune.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/135_instagram.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1360_thehill.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1361_yahoo.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1419_miaminewtimes.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/144_style.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1468_rockstargames.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1470_steampowered.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1498_ticketmaster.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1510_jibjab.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1539_geocaching.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1545_taylorswift.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1582_msn.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1610_post-gazette.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1618_sltrib.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1636_sidearmsports.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1637_dailyillini.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/164_adweek.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1666_wsmv.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1673_tulsaworld.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1683_dailynews.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1694_lids.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1703_sports-reference.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1708_foxsports.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/1713_latinpost.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/175_mlb.mlb.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/186_abcnews.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/200_washingtonpost.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/202_foodallergy.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/207_reference.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/20_theatlantic.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/21_imdb.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/228_gawker.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/26_nytimes.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/303_reddit.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/320_timeinc.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/325_ocregister.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/32_voxmedia.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/331_tgifridays.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/33_nbcuniversal.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/348_walmart.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/359_vikings.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/394_newsbusters.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/414_washingtonian.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/453_barnesandnoble.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/456_boardgamegeek.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/481_fredericknewspost.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/503_buffalowildwings.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/517_kaleidahealth.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/523_usa.gov.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/531_archives.gov.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/541_ifsa-butler.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/559_www.loc.gov.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/571_abita.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/581_coffeereview.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/584_communitycoffee.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/586_cariboucoffee.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/58_esquire.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/591_google.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/59_liquor.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/627_dairyqueen.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/635_playstation.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/640_gamestop.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/641_cbsinteractive.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/642_thefreedictionary.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/652_randomhouse.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/676_restaurantnews.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/686_military.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/701_tangeroutlet.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/70_meredith.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/723_dogbreedinfo.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/744_minecraft.gamepedia.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/745_eatchicken.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/746_kraftrecipes.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/760_si.edu.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/777_education.jlab.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/807_lodgemfg.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/817_ironhorsevineyards.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/82_sheknows.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/856_sciencemag.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/862_disinfo.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/883_ted.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/884_naturalnews.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/891_everydayhealth.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/898_uptodate.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/907_earthkam.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/919_uh.edu.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/928_stlouisfed.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/93_pbs.org.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/940_internetbrands.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/962_lynda.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/988_solarviews.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/98_neworleansonline.com.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/annotations/995_mohegansun.com.csv" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trained/policy2vec.w2v" afterPath="$PROJECT_DIR$/trained/policy2vec.w2v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NamePhraseExtraction.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NaiveBayesianPractise-Copy1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NaiveBayesianPractise-Copy1-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NaiveBayesianPractise-Copy2-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NaiveBayesianPractise-Copy2-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaiveBayesianPractise-Copy1.ipynb" afterPath="$PROJECT_DIR$/NaiveBayesianPractise-Copy1.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaiveBayesianPractise-Copy2.ipynb" afterPath="$PROJECT_DIR$/NaiveBayesianPractise-Copy2.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Word2VecJupyter.ipynb" afterPath="$PROJECT_DIR$/Word2VecJupyter.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ParametersCheck-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ParametersCheck-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/SentenceClassification-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/SentenceClassification-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/SentenceClassification_Main-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/SentenceClassification_Main-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CountOfPolicyPractises.ipynb" afterPath="$PROJECT_DIR$/CountOfPolicyPractises.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewProblemStmt.py" afterPath="$PROJECT_DIR$/NewProblemStmt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParametersCheck.ipynb" afterPath="$PROJECT_DIR$/ParametersCheck.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SentenceClassification.ipynb" afterPath="$PROJECT_DIR$/SentenceClassification.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SentenceClassification_Main.ipynb" afterPath="$PROJECT_DIR$/SentenceClassification_Main.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Train/20_theatlantic.com.csv" afterPath="$PROJECT_DIR$/Train/20_theatlantic.com.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Train/21_imdb.com.csv" afterPath="$PROJECT_DIR$/Train/21_imdb.com.csv" />
     </list>
     <ignored path="Word2Vec.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -147,80 +33,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExtractionTextFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
+      <file leaf-file-name="NamePhraseExtraction.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NamePhraseExtraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <element signature="e#138#149#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="document_cluster.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document_cluster.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1995">
-              <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResampleFiles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewProblemStmt.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NewProblemStmt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SentenceCount.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SentenceCount.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="document_cluster_main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/document_cluster_main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-              <folding>
-                <element signature="e#1#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnnbagOfWords.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KnnbagOfWords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3540">
-              <caret line="266" column="16" selection-start-line="266" selection-start-column="12" selection-end-line="266" selection-end-column="16" />
-              <folding>
-                <element signature="e#1#38#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -249,13 +68,14 @@
         <option value="$PROJECT_DIR$/ResampleFiles.py" />
         <option value="$PROJECT_DIR$/document_cluster_main.py" />
         <option value="$PROJECT_DIR$/NewProblemStmt.py" />
+        <option value="$PROJECT_DIR$/NamePhraseExtraction.py" />
+        <option value="$PROJECT_DIR$/NamedEntity.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -321,14 +141,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spatial" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -589,26 +410,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27951807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -627,30 +448,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#138#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document_cluster.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewProblemStmt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="152" column="35" selection-start-line="152" selection-start-column="35" selection-end-line="152" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NamePhraseExtraction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -659,9 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2505">
           <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,9 +483,178 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3540">
           <caret line="266" column="16" selection-start-line="266" selection-start-column="12" selection-end-line="266" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewProblemStmt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="152" column="35" selection-start-line="152" selection-start-column="35" selection-end-line="152" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NamePhraseExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1#38#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KnnbagOfWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3540">
+          <caret line="266" column="16" selection-start-line="266" selection-start-column="12" selection-end-line="266" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewProblemStmt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KnnbagOfWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3540">
+          <caret line="266" column="16" selection-start-line="266" selection-start-column="12" selection-end-line="266" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewProblemStmt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentenceCount.ipynb" />
+    <entry file="file://$PROJECT_DIR$/document_cluster_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KnnbagOfWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3540">
+          <caret line="266" column="16" selection-start-line="266" selection-start-column="12" selection-end-line="266" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KnnbagOfWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3540">
+          <caret line="266" column="16" selection-start-line="266" selection-start-column="12" selection-end-line="266" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -679,9 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#138#149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
           <caret line="130" column="28" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,9 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#138#149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,67 +742,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document_cluster.py">
+    <entry file="file://$PROJECT_DIR$/SentenceCount.ipynb" />
+    <entry file="file://$PROJECT_DIR$/document_cluster_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#138#149#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2955">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/KnnbagOfWords.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3540">
+        <state relative-caret-position="3990">
           <caret line="266" column="16" selection-start-line="266" selection-start-column="12" selection-end-line="266" selection-end-column="16" />
-          <folding>
-            <element signature="e#1#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document_cluster_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentenceCount.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NewProblemStmt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="2280">
+          <caret line="152" column="35" selection-start-line="152" selection-start-column="35" selection-end-line="152" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResampleFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractionTextFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NamedEntity.ipynb">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NamePhraseExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,476 @@
+(lp0
+S'geo-location'
+p1
+aS'latitude and longitude'
+p2
+aS'your location'
+p3
+aS'locale, time zone'
+p4
+aS'your mobile location information'
+p5
+aS'address information'
+p6
+aS'areas'
+p7
+aS'your zip code'
+p8
+aS'code'
+p9
+aS'any location'
+p10
+aS'-LRB- b -RRB- record'
+p11
+aS'geographic location of your computer,'
+p12
+aS'networks'
+p13
+aS"device 's"
+p14
+aS'We'
+p15
+aS'zip code/postal code .'
+p16
+aS'street address'
+p17
+aS'general location information,'
+p18
+aS"your device 's location information"
+p19
+aS'location'
+p20
+aS'the state in which you bank'
+p21
+aS'GPS-based functionality'
+p22
+aS'geographic location of you and/or your computer,'
+p23
+aS'city and state'
+p24
+aS'specific geographic location if you'
+p25
+aS'This information'
+p26
+aS'general geographic location'
+p27
+aS'time zone'
+p28
+aS'city of residence, ZIP code'
+p29
+aS'your time zone'
+p30
+aS't location information'
+p31
+aS'timestamp'
+p32
+aS"your device 's"
+p33
+aS'general location'
+p34
+aS"device 's location information ."
+p35
+aS'The country'
+p36
+aS'date/time stamp'
+p37
+aS'bank'
+p38
+aS'the region or general location'
+p39
+aS'networks and cell towers'
+p40
+aS'your hardware'
+p41
+aS'name'
+p42
+aS'geographic location of your computer, mobile or other device'
+p43
+aS'information about you'
+p44
+aS'your computer,'
+p45
+aS'the state'
+p46
+aS'city of residence'
+p47
+aS'precise geolocation technology'
+p48
+aS't'
+p49
+aS'home location'
+p50
+aS'the country'
+p51
+aS'precise geolocation technology such as GPS or Wi-Fi triangulation'
+p52
+aS'locale'
+p53
+aS'nformation'
+p54
+aS"Your mobile device 's geographic location -LRB- specific geographic location if you"
+p55
+aS'postal code'
+p56
+aS'ZIP code'
+p57
+aS'your home location'
+p58
+aS'emails'
+p59
+aS'mobile or other device'
+p60
+aS'local zip code'
+p61
+aS'street'
+p62
+aS'us'
+p63
+aS'home address a'
+p64
+aS'address a'
+p65
+aS'home'
+p66
+aS'the movements'
+p67
+aS'the Services'
+p68
+aS'postal address'
+p69
+aS'your area code and/or your time zone'
+p70
+aS'address information from these sources'
+p71
+aS'computer'
+p72
+aS'the region or general location where your computer or device is accessing the Internet'
+p73
+aS'collection of that information, or general geographic location'
+p74
+aS'access'
+p75
+aS'state'
+p76
+aS'Location Information'
+p77
+aS'geographic location'
+p78
+aS'individual users'
+p79
+aS"your device 's GPS signal and information about nearby WiFi"
+p80
+aS'nearby WiFi networks'
+p81
+aS'general location information'
+p82
+aS'we'
+p83
+aS'Location Data We Collect'
+p84
+aS"device 's location information"
+p85
+aS'geographic location of you and/or your computer, mobile or other device'
+p86
+aS'timestamp, locale, time zone,'
+p87
+aS'individual users, and your geographic location'
+p88
+aS'the movements of individual users, and your geographic location'
+p89
+aS'address or local zip code'
+p90
+aS'location informatio'
+p91
+aS"device 's geographic location"
+p92
+aS'data collected regarding areas of interest'
+p93
+aS'your current location'
+p94
+aS'address'
+p95
+aS'the region'
+p96
+aS'your computer, mobile or other device'
+p97
+aS'Location'
+p98
+aS'you bank'
+p99
+aS"your device 's location"
+p100
+aS'its geographic location'
+p101
+aS'residence'
+p102
+aS'zip code'
+p103
+aS'mobile devices'
+p104
+aS'Your'
+p105
+aS'timestamp, locale, time zone'
+p106
+aS"device 's location"
+p107
+aS'nformation about your location'
+p108
+aS'location of you and/or your computer, mobile or other device,'
+p109
+aS'location-based information'
+p110
+aS'your mobile location'
+p111
+aS'their location'
+p112
+aS"Your mobile device 's"
+p113
+aS'geolocation'
+p114
+aS'zip code and state'
+p115
+aS'addresses'
+p116
+aS'your location information'
+p117
+aS'name, address, phone number, email'
+p118
+aS"device 's geographic location -LRB- specific geographic location if you 've enabled collection of that information, or general geographic location automatically -RRB-"
+p119
+aS'geographic location of you'
+p120
+aS'and/or your computer, mobile or other device, as well as date/time stamp,'
+p121
+aS'email'
+p122
+aS'other device, as well as date/time stamp,'
+p123
+aS'your'
+p124
+aS'your locatio'
+p125
+aS'geographic location -LRB- your zip code, your area code and/or your time zone -RRB-,'
+p126
+aS'location-tracking'
+p127
+aS'city'
+p128
+aS'the Internet'
+p129
+aS'devices'
+p130
+aS'zip'
+p131
+aS'Geographic location information'
+p132
+aS'nearby WiFi networks and cell towers'
+p133
+aS'address verification .'
+p134
+aS'your geographic location -LRB- your zip code, your area code and/or your time zone -RRB-,'
+p135
+aS'locale, time zone,'
+p136
+aS'Location Information : We may collect information about your location when your device is set to provide location information .'
+p137
+aS'geographic location of you and/or your computer, mobile or other device, as well as date/time stamp,'
+p138
+aS'the region or general location where your computer'
+p139
+aS'physical location of devices'
+p140
+aS'interest'
+p141
+aS'which'
+p142
+aS'your server'
+p143
+aS'location-based information .'
+p144
+aS'you and/or your computer, mobile or other device'
+p145
+aS'Geographic location information about you and/or your computer, mobile or other device'
+p146
+aS'geolocation information'
+p147
+aS'city and state of residency'
+p148
+aS'geographic location of you and/or your computer, mobile or other device,'
+p149
+aS'ZIP code or postal code'
+p150
+aS'you and/or your computer,'
+p151
+aS'the exact location of your mobile device'
+p152
+aS'physical location'
+p153
+aS'Location data'
+p154
+aS'your mobile device'
+p155
+aS'your device'
+p156
+aS'geographic location -LRB- specific geographic location if you'
+p157
+aS'our site'
+p158
+aS'areas of interest'
+p159
+aS'a database'
+p160
+aS'country and state'
+p161
+aS'ocation data'
+p162
+aS'information about your actual location .'
+p163
+aS'its geographic location -RRB-'
+p164
+aS'the region or general location where your computer or'
+p165
+aS'these sources'
+p166
+aS'location-tracking information'
+p167
+aS'record'
+p168
+aS'location information'
+p169
+aS'verification'
+p170
+aS'current location'
+p171
+aS'your zip code, your area code and/or your time zone'
+p172
+aS'that information, or general geographic location'
+p173
+aS'example'
+p174
+aS'Geographic location'
+p175
+aS'Location information'
+p176
+aS'residence, ZIP code'
+p177
+aS'code/postal code'
+p178
+aS'cell towers'
+p179
+aS'your email'
+p180
+aS'area code and zip code'
+p181
+aS'general'
+p182
+aS'your geographic location -LRB- your zip code, your area code and/or your time zone -RRB-'
+p183
+aS'nearby WiFi'
+p184
+aS'your actual location'
+p185
+aS'geotag'
+p186
+aS'information about your location'
+p187
+aS'country and state from which you access our site'
+p188
+aS"your device 's GPS signal and information about nearby WiFi networks and cell towers ."
+p189
+aS'information'
+p190
+aS'specific geographic location'
+p191
+aS'your hardware ; -LRB- b -RRB- record'
+p192
+aS'the state in which'
+p193
+aS'information about you and/or your computer, mobile or other device'
+p194
+aS'zip codes for example'
+p195
+aS'your area code'
+p196
+aS'the exact location'
+p197
+aS'ocation informatio'
+p198
+aS'zone setting'
+p199
+aS'zip codes'
+p200
+aS'you'
+p201
+aS'your computer, mobile or other device,'
+p202
+aS'location of you'
+p203
+aS'residency'
+p204
+aS'a -RRB-'
+p205
+aS'any location based information'
+p206
+aS"specific geographic location if you 've enabled collection of that information, or general geographic location automatically"
+p207
+aS'your computer'
+p208
+aS'The country and state'
+p209
+aS'phone number'
+p210
+aS'location information,'
+p211
+aS'a zip code'
+p212
+aS'collection'
+p213
+aS'time zone setting'
+p214
+aS'GPS or Wi-Fi triangulation'
+p215
+aS"example, your device 's GPS signal and information"
+p216
+aS"your device 's GPS signal and information"
+p217
+aS'data'
+p218
+aS'Location Data'
+p219
+aS'email address'
+p220
+aS'Your location'
+p221
+aS'that information'
+p222
+aS'location services'
+p223
+aS'mobile'
+p224
+aS'country and state from which you access our site ;'
+p225
+aS'your computer or device'
+p226
+aS'mobile devices used to access the Services'
+p227
+aS'your geographic location'
+p228
+aS'location services .'
+p229
+aS'Street'
+p230
+aS'other device'
+p231
+aS'time'
+p232
+aS'your location data'
+p233
+aS'location data'
+p234
+aS'geographic'
+p235
+aS'the area code and zip code'
+p236
+aS'area code'
+p237
+a.
